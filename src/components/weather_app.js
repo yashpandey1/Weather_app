@@ -35,7 +35,7 @@ const Weatherapp = function() {
                     </h1>
                     <h1 className="temp">                  
                     </h1>
-                    <h3 className="tempmin_maxpre"> Hey ! Enter your city name <br /> to know the temperature </h3>
+                    <h3 className="tempmin_maxpre"> Hey ! Enter city name <br /> to know the temperature </h3>
                 </div>
                     <div className="wave -one"></div>
                     <div className="wave -two"></div>
